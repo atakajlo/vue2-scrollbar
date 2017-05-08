@@ -4,7 +4,7 @@
     @click="calculateSize"
     :class="'vue-scrollbar__wrapper' + ( this.classes ? ' ' + this.classes : '' )"
     ref="scrollWrapper"
-    :style="this.style">
+    :style="this.styling">
 
     <div
       :class="'vue-scrollbar__area' + ( this.dragging ? ' ' : ' vue-scrollbar-transition')"
@@ -58,7 +58,7 @@
 
     props: {
       classes: String,
-      style: Object,
+      styling: Object,
       speed: {
         type: Number,
         default: 53
