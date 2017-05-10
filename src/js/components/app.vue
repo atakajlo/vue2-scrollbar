@@ -16,7 +16,7 @@
         <div class="kolom"></div>
         <div class="kolom"></div>
         <div class="kolom"></div>
-        <div class="kolom"></div>
+        <div class="kolom"><a href="http://i.ua" target="_blank">link</a></div>
         <div class="kolom"></div>
         <div class="kolom"></div>
         <div class="clearfix"></div>

@@ -1,8 +1,8 @@
 {
   "name": "vue2-scrollbar-fork",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "The Simplest Scroll Area Component with custom scrollbar for Vue 2",
-  "main": "./dist/vue2-scrollbar.js",
+  "main": "./dist/vue2-scrollbar-fork.js",
   "scripts": {
     "dev": "webpack-dev-server --config ./webpack/webpack.config.js --inline --hot",
     "build": "webpack --config ./webpack/webpack-prod.config.js -p",
